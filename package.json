@@ -1,0 +1,21 @@
+{
+  "name": "db",
+  "version": "0.0.1",
+  "description": "Whale PW DB Utilities",
+  "main": "pw-compare.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "chalk": "^1.1.3",
+    "mysql": "^2.10.2",
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^9.0.2"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Bruce A. MacNaughton",
+  "license": "ISC"
+}

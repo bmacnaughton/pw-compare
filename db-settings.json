@@ -1,0 +1,14 @@
+{
+    "sourceDB": {
+        "host": "localhost",
+        "user": "admin",
+        "password": "",
+        "database": "whale"
+    },
+    "targetDB": {
+        "host": "localhost",
+        "user": "admin",
+        "password": "",
+        "database": "whale_testing"
+    }
+}
