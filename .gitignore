@@ -1,3 +1,4 @@
 logs/
 baselogs/
 node_modules/
+db-settings.json
