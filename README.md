@@ -36,7 +36,7 @@ $ npm install
 
 ## Getting started
 
-The database settings are configured by editing `db-settings.json`. They map directly to the [msqljs](https://github.com/mysqljs/mysql) settings.
+The database settings are configured by editing `db-settings.json`. They map directly to the [mysqljs](https://github.com/mysqljs/mysql) settings.
 
 To run
 
