@@ -1,3 +1,10 @@
+//
+// ProcessWire Database Compare
+//
+// Copyright 2016, Bruce A. MacNaughton
+//
+'use strict';
+
 const mysql = require('mysql');
 const Promise = require('bluebird');
 

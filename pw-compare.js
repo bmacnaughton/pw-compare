@@ -1,3 +1,8 @@
+//
+// ProcessWire Database Compare
+//
+// Copyright 2016, Bruce A. MacNaughton
+//
 'use strict';
 
 const chalk = require('chalk');
@@ -6,7 +11,6 @@ const fs = require('fs');
 const Promise = require('bluebird');
 
 const PWDB = require('./pwdb');
-//const Comparison = require('./comparison');
 const Comparison = require('./comparison/');
 const {XError} = require('./error');
 

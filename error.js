@@ -1,3 +1,8 @@
+//
+// ProcessWire Database Compare
+//
+// Copyright 2016, Bruce A. MacNaughton
+//
 'use strict';
 
 function XError(name, message, context) {
