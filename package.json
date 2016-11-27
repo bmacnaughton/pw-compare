@@ -1,7 +1,11 @@
 {
   "name": "db",
-  "version": "0.0.1",
-  "description": "Whale PW DB Utilities",
+  "version": "0.0.2",
+  "description": "Whale PW DB Comparison Utility",
+  "license": "MPL-2.0",
+  "author": {
+    "name": "Bruce A. MacNaughton"
+  },
   "main": "pw-compare.js",
   "dependencies": {
     "bluebird": "^3.4.6",
@@ -15,7 +19,5 @@
   },
   "scripts": {
     "test": "mocha test"
-  },
-  "author": "Bruce A. MacNaughton",
-  "license": "ISC"
+  }
 }
